@@ -1,0 +1,64 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.hero {
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.courses {
+  list-style: none;
+  padding: 0;
+}
+
+.courses li {
+  margin-bottom: 10px;
+}
+
+.testimonials {
+  margin-bottom: 20px;
+}
+
+blockquote {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 0;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
